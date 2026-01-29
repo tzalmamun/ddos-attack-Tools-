@@ -14,13 +14,22 @@ pkg update && pkg upgrade -y && pkg install python git -y && git clone https://g
 ```
 
 🐧 For Linux (Kali/Ubuntu)
+```
 sudo apt update && sudo apt install python3 python3-pip git -y && git clone https://github.com/tzalmamun/ddos-attack-Tools-.git && cd SILENT-ATTACK && pip3 install colorama && python3 silent_attack.py
+```
 
 ☁️ For Google Cloud Shell / VPS
+```
 git clone https://github.com/tzalmamun/ddos-attack-Tools-.git && cd SILENT-ATTACK && pip3 install colorama && python3 silent_attack.py
+```
 
 🪟 For Windows (PowerShell/CMD)
+```
 git clone https://github.com/tzalmamun/ddos-attack-Tools-.git ; cd SILENT-ATTACK ; pip install colorama ; python silent_attack.py
+```
+
+ডাউনলোড এর পর ( ddos-attack-Tools-) এই ফাইল টি আসবেনে ls পথমে cd ddos-attack-Tools-
+ent_attack.py এনটার Love You All ❤️❤️
 
 📋 Requirements (যা যা লাগবে)
 Python 3.9+ (ইনস্টল থাকতে হবে)
