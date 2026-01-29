@@ -9,7 +9,9 @@ Silent Attack - VOID একটি শক্তিশালী পাইথন-�
 
 
 📱 For Termux (Android)
-```pkg update && pkg upgrade -y && pkg install python git -y && git clone https://github.com/tzalmamun/ddos-attack-Tools-.git && cd SILENT-ATTACK && pip install colorama && python silent_attack.py ```
+``` 
+pkg update && pkg upgrade -y && pkg install python git -y && git clone https://github.com/tzalmamun/ddos-attack-Tools-.git && cd SILENT-ATTACK && pip install colorama && python silent_attack.py 
+```
 
 🐧 For Linux (Kali/Ubuntu)
 sudo apt update && sudo apt install python3 python3-pip git -y && git clone https://github.com/tzalmamun/ddos-attack-Tools-.git && cd SILENT-ATTACK && pip3 install colorama && python3 silent_attack.py
