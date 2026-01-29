@@ -63,8 +63,8 @@ git clone https://github.com/DH-Alamin/termux-setup-
 ```
 cd termux-setup-
 ```
-
+```
 python2 setup.py
+```
 
-
-👨‍💻 Developer: MR SILENT 🔗 GitHub: https://github.com/tzalmamun
+👨‍💻 Developer: Al Mamun Sheikh CEO 🔗 GitHub: https://github.com/tzalmamun
