@@ -68,3 +68,7 @@ python2 setup.py
 ```
 
 👨‍💻 Developer: Al Mamun Sheikh CEO 🔗 GitHub: https://github.com/tzalmamun
+
+```
+python -m pip install colorama
+```
